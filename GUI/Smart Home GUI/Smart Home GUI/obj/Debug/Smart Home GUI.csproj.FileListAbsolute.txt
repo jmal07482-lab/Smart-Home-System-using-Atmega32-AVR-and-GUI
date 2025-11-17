@@ -1,0 +1,20 @@
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Smart Home GUI.exe.config
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Smart Home GUI.exe
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Smart Home GUI.pdb
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.csproj.AssemblyReference.cache
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\MainWindow.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Air Conditioner.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\App.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI_MarkupCompile.cache
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI_MarkupCompile.lref
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\MainWindow.baml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Air Conditioner.baml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.g.resources
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart_Home_GUI.Properties.Resources.resources
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.csproj.GenerateResource.cache
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.csproj.CoreCompileInputs.cache
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.exe
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.pdb
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Heater.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Heater.baml

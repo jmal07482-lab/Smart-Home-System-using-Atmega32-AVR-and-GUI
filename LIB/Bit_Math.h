@@ -1,7 +1,7 @@
 /*
  * Bit_Math.h
  *
- *  Created on: Aug 12, 2025
+ *  
  *      Author: Ahmed Gamal
  */
 
@@ -14,4 +14,5 @@
 #define READ_BIT(reg,bit)  (((reg)&(1<<(bit)))>>(bit))
 
 #endif /* LIB_BIT_MATH_H_ */
+
 

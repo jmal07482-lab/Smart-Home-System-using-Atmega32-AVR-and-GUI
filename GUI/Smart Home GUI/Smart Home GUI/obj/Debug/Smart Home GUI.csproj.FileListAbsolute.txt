@@ -18,3 +18,9 @@ C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.
 C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.pdb
 C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Heater.g.cs
 C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Heater.baml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\KeyPad.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\KeyPad.baml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Ho.18918E06.Up2Date

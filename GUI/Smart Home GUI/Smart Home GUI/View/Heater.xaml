@@ -5,12 +5,12 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Smart_Home_GUI.View"
              mc:Ignorable="d" 
-             d:DesignHeight="180" d:DesignWidth="130">
+             d:DesignHeight="100" d:DesignWidth="130">
     <Viewbox>
     <Grid>
-        <Path Fill="#FF28C9CC" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.RowSpan="2" StrokeThickness="2"  StrokeLineJoin="Round" Height="150">
+        <Path Fill="#FF28C9CC" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.RowSpan="2" StrokeThickness="2"  StrokeLineJoin="Round" Height="100">
             <Path.Data>
-                <PathGeometry Figures="M0,10 A10,10,0,0,1,10,0   L10,0 110,0   A10,10,0,0,1,120,10   L120,10 120,140   A10,10,0,0,1,110,150   L110,150 10,150   A10,10,0,0,1,0,140 L0,140 0,10"/>
+                <PathGeometry Figures="M0,10 A10,10,0,0,1,10,0   L10,0 110,0   A10,10,0,0,1,120,10   L120,10 120,90   A10,10,0,0,1,110,100   L110,100 10,100   A10,10,0,0,1,0,90 L0,90 0,10"/>
             </Path.Data>
         </Path>
         <Rectangle Width="90" Height="10" Fill="White"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,15,0,0" Stroke="Black" StrokeThickness="0.5" />

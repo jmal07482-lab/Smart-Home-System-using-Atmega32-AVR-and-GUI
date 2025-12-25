@@ -1,0 +1,1 @@
+HAL/PB/PB.o HAL/PB/PB.o: ../HAL/PB/PB.c

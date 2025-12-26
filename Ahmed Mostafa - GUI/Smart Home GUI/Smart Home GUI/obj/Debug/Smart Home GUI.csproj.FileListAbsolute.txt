@@ -1,0 +1,54 @@
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Smart Home GUI.exe.config
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Smart Home GUI.exe
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Smart Home GUI.pdb
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.csproj.AssemblyReference.cache
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\MainWindow.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Air Conditioner.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\App.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI_MarkupCompile.cache
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI_MarkupCompile.lref
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\MainWindow.baml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Air Conditioner.baml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.g.resources
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart_Home_GUI.Properties.Resources.resources
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.csproj.GenerateResource.cache
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.csproj.CoreCompileInputs.cache
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.exe
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Home GUI.pdb
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Heater.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\Heater.baml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\KeyPad.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\KeyPad.baml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\Smart Ho.18918E06.Up2Date
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Renci.SshNet.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Renci.SshNet.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Buffers.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Formats.Asn1.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Memory.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Buffers.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Formats.Asn1.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Memory.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\ConnectButton.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\PowerButton.g.cs
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\ConnectButton.baml
+C:\Users\TC\source\repos\Smart Home GUI\Smart Home GUI\obj\Debug\View\PowerButton.baml
